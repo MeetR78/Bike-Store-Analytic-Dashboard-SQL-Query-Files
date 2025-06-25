@@ -40,12 +40,12 @@ Interactive Dashboard is created for decision makers with popular business intel
 
 ### 1. Sales Overview Page
 
-![Sales Page](/Snapshot/Sales.png)
+![Sales Page](Sales.png)
 
 ### 2. Store Analysis
 
-![Sales Page](/Snapshot/Stores.png)
+![Sales Page](Stores.png)
 
 ### 3. Order Table Page
 
-![Sales Page](/Snapshot/Order.png)
+![Sales Page](Order.png)
