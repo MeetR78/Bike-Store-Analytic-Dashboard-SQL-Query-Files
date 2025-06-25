@@ -1,1 +1,0 @@
-# Bike-Store-Analytic-Dashboard-SQL-Query-Files
